@@ -10,6 +10,13 @@ npm run dev
 yarn dev
 ```
 
+Second, set yours firebase keys in a .env.local
+```bash
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBORFfmX7S9T2JRynvV4IgfxHjoYb2IDCA
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=next-crud-61590.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=next-crud-61590
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
