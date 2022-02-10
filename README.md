@@ -10,11 +10,11 @@ npm run dev
 yarn dev
 ```
 
-Second, set yours firebase keys in a .env.local
+Second, set yours firebase keys from "Project Settings" on firebase console in a .env.local
 ```bash
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBORFfmX7S9T2JRynvV4IgfxHjoYb2IDCA
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=next-crud-61590.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=next-crud-61590
+NEXT_PUBLIC_FIREBASE_API_KEY=**************************
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=next-crud-xxx.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=next-crud-xxx
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
